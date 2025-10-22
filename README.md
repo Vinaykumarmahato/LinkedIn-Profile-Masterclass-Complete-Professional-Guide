@@ -124,36 +124,6 @@ Includes:
 * Section-by-section breakdown
 * Advanced SEO & personal branding tips
 
----
-
-## 🔍 SEO Optimization (For GitHub Pages)
-
-1. Go to **Settings → Pages** → Select branch `main` → Save.
-2. Add this meta snippet to your `/seo/github-pages-index.html`:
-
-```html
-<meta name="description" content="Complete LinkedIn Profile Guide with ChatGPT prompts, templates, and YouTube tutorial." />
-<meta property="og:title" content="LinkedIn Profile Masterclass — Build a Professional LinkedIn Profile" />
-<meta property="og:image" content="https://raw.githubusercontent.com/Vinaykumarmahato/LinkedIn-Profile-Masterclass/main/assets/banner.png" />
-<meta name="twitter:card" content="summary_large_image" />
-```
-
-3. Commit and deploy — now your repo is searchable on Google!
-
----
-
-## ✅ Final Checklist
-
-Before you publish or share:
-
-* [ ] Add your banner image (`/assets/banner.png`)
-* [ ] Verify SEO tags and keywords
-* [ ] Update YouTube video link
-* [ ] Add all templates and scripts
-* [ ] Enable GitHub Pages
-* [ ] Pin this repo on your GitHub profile
-
----
 
 ## 📈 Keywords (for SEO)
 

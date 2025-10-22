@@ -12,9 +12,7 @@
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" style="box-shadow:0 0 15px rgba(255,0,0,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
   </a>
   
-  <a href="https://vinaykumarmahato.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Live-GitHub%20Pages-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" style="box-shadow:0 0 15px rgba(0,255,255,0.6); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
-  </a>
+
   
   <a href="https://www.linkedin.com/in/vinay-kumar860964/" target="_blank">
     <img src="https://img.shields.io/badge/See%20My%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="box-shadow:0 0 15px rgba(0,119,181,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">

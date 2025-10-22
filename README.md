@@ -115,7 +115,7 @@ Browse the `/templates` folder to find:
 
 ### 🎥 3. Watch the Full Tutorial
 
-🎬 **YouTube Video:** [How to Create a Professional LinkedIn Profile (Step-by-Step)](https://youtube.com/@ADVIndianCoder)
+🎬 **YouTube Video:** [How to Create a Professional LinkedIn Profile (Step-by-Step)](https://www.youtube.com/@ADVIndianCoder-i9y)
 
 Includes:
 

@@ -1,10 +1,31 @@
 # 🚀 LinkedIn Profile Masterclass — Complete Professional Guide
 
 > **Learn how to build a professional, recruiter-friendly LinkedIn profile from scratch using ChatGPT prompts, ready-made templates, and real examples.**
+<h2 align="center">
+  <span style="font-family:'Poppins',sans-serif; font-weight:700; font-size:28px; background: linear-gradient(90deg,#00c6ff,#0072ff); -webkit-background-clip:text; -webkit-text-fill-color:transparent; text-shadow:0 0 8px rgba(0,140,255,0.7); animation: glow 2s infinite alternate;">
+    🚀 Connect & Explore More
+  </span>
+</h2>
 
-[![YouTube](https://img.shields.io/badge/Watch%20on-YouTube-red?logo=youtube)](https://youtube.com/@ADVIndianCoder)
-[![GitHub Pages](https://img.shields.io/badge/View%20Live-GitHub%20Pages-blue?logo=github)]()
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+<p align="center">
+  <a href="https://www.youtube.com/@ADVIndianCoder-i9y" target="_blank">
+    <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" style="box-shadow:0 0 15px rgba(255,0,0,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
+  </a>
+  
+  <a href="https://vinaykumarmahato.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Live-GitHub%20Pages-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" style="box-shadow:0 0 15px rgba(0,255,255,0.6); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/vinay-kumar860964/" target="_blank">
+    <img src="https://img.shields.io/badge/See%20My%20LinkedIn%20Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" style="box-shadow:0 0 15px rgba(0,119,181,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
+  </a>
+
+  <a href="https://www.instagram.com/vinay_software_engineer/" target="_blank">
+    <img src="https://img.shields.io/badge/Follow%20me%20on-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Profile" style="box-shadow:0 0 15px rgba(228,64,95,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
+  </a>
+</p>
+
+
 
 ---
 

@@ -1,5 +1,5 @@
 # 🚀 LinkedIn Profile Masterclass — Complete Professional Guide
-[![LinkedIn Banner](https://github.com/Vinaykumarmahato/LinkedIn-Profile-Masterclass-Complete-Professional-Guide/blob/main/LINKEDIN%20BANNER.png)](https://www.youtube.com/watch?v=nZCTzkV0QAY&feature=youtu.be)
+[![LinkedIn Banner](https://github.com/Vinaykumarmahato/LinkedIn-Profile-Masterclass-Complete-Professional-Guide/blob/main/LINKEDIN%20BANNER.png)](https://youtu.be/2DwvB9gsVw0?si=44O7hdI-HmrnAhB0)
 
 > **Learn how to build a professional, recruiter-friendly LinkedIn profile from scratch using ChatGPT prompts, ready-made templates, and real examples.**
 <h2 align="center">

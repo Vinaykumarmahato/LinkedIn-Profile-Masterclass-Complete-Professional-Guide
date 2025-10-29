@@ -9,7 +9,7 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.youtube.com/@ADVIndianCoder-i9y" target="_blank">
+  <a href="https://youtu.be/2DwvB9gsVw0?si=44O7hdI-HmrnAhB0" target="_blank">
     <img src="https://img.shields.io/badge/Watch%20on-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" style="box-shadow:0 0 15px rgba(255,0,0,0.7); border-radius:12px; margin:6px; transform:scale(1.05); transition:0.3s;">
   </a>
   
